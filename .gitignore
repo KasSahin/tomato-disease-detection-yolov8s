@@ -1,0 +1,32 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+.env
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Project Outputs
+runs/
+tarim_kurumsal_mlops/
+
+# YOLO/PyTorch Models
+*.pt
+*.onnx
+
+# Dataset
+dataset/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
